@@ -34,7 +34,7 @@ def welcome():
         f"/api/v1.0/stations<br/>"
         f"/api/v1.0/tobs<br/>"
         f"<br/>"
-        f"<b/><u/>DYNAMIC LINKS:</b></u> (input a date where start or end are reflected in the URL)<br/>"
+        f"<b/><u/>DYNAMIC LINKS:</b></u> (input a date where start or end are reflected in the URL in YYYY-MM-DD format)<br/>"
         f"/api/v1.0/start<br/>"
         f"/api/v1.0/start/end<br/>"
     )
